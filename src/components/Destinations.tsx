@@ -1,4 +1,3 @@
-
 import { MapPin } from 'lucide-react';
 
 const destinations = [
@@ -23,13 +22,13 @@ const destinations = [
     {
         id: 'malaysia',
         name: 'Malaysia',
-        image: 'https://images.unsplash.com/photo-1596422846543-75c6fc198f07?auto=format&fit=crop&q=80&w=800',
+        image: '/malaysia.jpg',
         description: 'Diverse landscapes, iconic Petronas Towers, and rainforests.'
     },
     {
         id: 'australia',
         name: 'Australia',
-        image: 'https://images.unsplash.com/photo-1523482580665-422fb84a0d84?auto=format&fit=crop&q=80&w=800',
+        image: '/australia.jpg',
         description: 'Great Barrier Reef, Outback adventures, and Sydney Opera House.'
     }
 ];
